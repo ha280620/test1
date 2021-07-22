@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace test1.Controllers
-{
+{// nguyen vanha
     public class HomeController : Controller
     {
         public ActionResult Index()
